@@ -1,0 +1,71 @@
+body
+{
+  background-color: azure;
+}
+
+b
+{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.container
+{
+  padding: 15px;
+  background-color: honeydew;
+  border:1px solid black;
+  width: 770px;
+  height:950px;  
+  margin:auto;
+}
+
+input
+{
+  padding-bottom: 5px;
+}
+
+.F2
+{
+ margin-left:15px 
+}
+.FL
+{
+  padding-top: 4px;
+  font-size: 12px;
+  word-spacing: 165px;
+}
+
+.checked
+{
+  color: orange;
+}
+
+table, th, td 
+{
+  padding: 10px;
+  border-collapse: collapse;
+}
+
+button
+{
+   padding: 14px;
+}
+
+.tableouter
+{
+   padding: 5;
+}
+
+tr:nth-child(even) 
+{
+  background-color:rgb(231, 231, 231);
+  border-radius: 5%;
+}
+
+button
+{
+  font-size: 17px;
+}
+textarea
+{
+width:100%
+}
